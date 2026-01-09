@@ -12,7 +12,7 @@ BOT OPERATIONS
 - If enough stocks pass the risk filter, it waits for the market to open and then:
     - Sells positions that are not in the approved list
     - Buys the approved list at equal weight using notional orders
-- Repeat every week on Monday, 9:27 AM EST
+- Repeat every week on Monday, 9:28 AM EST
 
 SETUP (WINDOWS):
 
